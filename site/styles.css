@@ -40,3 +40,20 @@ header, footer {
 .slide p {
     margin-top: 0.5rem;
 }
+
+/* 독립된 메시지 섹션 스타일 */
+.message-section {
+    padding: 2rem 1rem;
+    background-color: #fff7e6;
+}
+
+.message-content {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.message-content p {
+    margin-bottom: 1rem;
+}
